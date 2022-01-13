@@ -8,4 +8,4 @@ minSdk 23
 targetSdk 31
 
 IDE Version 
-<img src="ide.png" width="400" height="450">
+<img src="ide.png" width="430" height="450">
